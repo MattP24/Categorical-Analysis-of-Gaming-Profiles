@@ -1,2 +1,5 @@
 # Categorical-Analysis-of-Gaming-Profiles
-Trained a categorical, unsupervised learning model on a feature-engineered dataset of player profiles to provide market insights for developers and publishers
+
+This project showcases how I handle preprocessing on real-world data in Python and an example of how I can make use of machine learning tools - Scikit-learn's K-means class - to glean insights from data.
+
+IPYND file contains markdown, code, and output. Alternatively, see the final work on [Kaggle](https://www.kaggle.com/code/mattpanec/categorical-model-of-gaming-profiles)
